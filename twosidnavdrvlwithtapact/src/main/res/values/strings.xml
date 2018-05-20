@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwoSidNavDrvlWithTapAct</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tab_text_1">tab_text_1</string>
+    <string name="tab_text_2">tab_text_2</string>
+    <string name="tab_text_3">tab_text_3</string>
+<string name="section_format1">Hello from section:%1$d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

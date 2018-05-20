@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Material_Design.iml" filepath="$PROJECT_DIR$/Material_Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leftsidenavdrwl/leftsidenavdrwl.iml" filepath="$PROJECT_DIR$/leftsidenavdrwl/leftsidenavdrwl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabslideractivity/tabslideractivity.iml" filepath="$PROJECT_DIR$/tabslideractivity/tabslideractivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twosidenavdrawl/twosidenavdrawl.iml" filepath="$PROJECT_DIR$/twosidenavdrawl/twosidenavdrawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twosidnavdrvlwithtapact/twosidnavdrvlwithtapact.iml" filepath="$PROJECT_DIR$/twosidnavdrvlwithtapact/twosidnavdrvlwithtapact.iml" />
+    </modules>
+  </component>
+</project>
